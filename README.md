@@ -1,4 +1,4 @@
-# 📊 Neuroscience of Learning, Memory, and Cognition
+# 🧠 Neuroscience of Learning, Memory, and Cognition
 
 **🏛️ University:** Sharif University of Technology  
 **🏢 Department:** Electrical Engineering  
